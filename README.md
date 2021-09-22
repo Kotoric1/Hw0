@@ -1,7 +1,7 @@
 # Hw0
-For testing my code:\n
-For problem 1 I usede the arrhythmia.data , change the path to your local path for arrhythmia.data and it will work
-For problem 2 I use the data after runned by the function in problem 1
+For testing my code:  
+For problem 1 I usede the arrhythmia.data , change the path to your local path for arrhythmia.data and it will work  
+For problem 2 I use the data after runned by the function in problem 1  
 For problem 3 I use the data after runned by th function in problem 2c which is discard_missing
 For problem 4 I used the data from train.csv, change the path to your local path fo train.csv and it will work
 For problem 5, I used the data after runned by th function in problem 2c which is discard_missing
